@@ -1,4 +1,4 @@
-<img width="2223" height="1122" alt="Снимок экрана 2026-07-27 в 22 54 11" src="https://github.com/user-attachments/assets/f0d6297b-741c-4491-aecf-80d7d229e9cf" /># 🏛 Forma Studio — Architecture & Interior Design Landing Page
+ 🏛 Forma Studio — Architecture & Interior Design Landing Page
 
 > A clean, typographic single-page landing for an architectural studio. Built with pure HTML & CSS — no frameworks, no dependencies.
 
