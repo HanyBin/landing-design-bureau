@@ -21,8 +21,7 @@
 
 ## 🖼 Preview
 
-![Landing page screenshot]([Uploading Снимок экрана 2026-07-27 в 22.54.11.png…]()
-)
+!([Landing page screenshot]([Uploading Снимок экрана 2026-07-27 в 22.54.11.png…])
 
 ---
 
