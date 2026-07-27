@@ -2,7 +2,7 @@
 
 > A clean, typographic single-page landing for an architectural studio. Built with pure HTML & CSS — no frameworks, no dependencies.
 
-🔗 **[Live Demo]([https://hanybin.github.io/landing-design-bureau](https://hanybin.github.io/landing-design-bureau))**
+🔗 **[Live Demo](https://hanybin.github.io/landing-design-bureau/))**
 
 ---
 
